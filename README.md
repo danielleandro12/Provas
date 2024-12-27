@@ -1,2 +1,2 @@
 # Provas
-Repositório criado para as provas do modulo lógica de programação
+Repositório criado para as provas do módulo lógica de programação
